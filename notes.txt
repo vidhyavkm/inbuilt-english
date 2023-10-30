@@ -1,0 +1,94 @@
+Js built in functions:
+
+"helloworld" => "dlrowolleh"
+=> split()-reverse()-join().
+
+1.Number methods
+2.Boolean methods
+3.String methods
+4.Array methods
+5.Date methods
+6.Math methods.
+
+Number method:
+
+1. constructor()=> this default number object
+2. toexponential()=> it gives exp math expression of a number
+3. tofixed()=> it stops the mentioned decimal point. 
+4. tolocalestring()=>it returns the local string and Date
+5. toprecision()=> it will returnt the decimal point or exp of the number.
+6. tostring()=> return the string
+7. valueof()=> it returns the primitive value of the object
+
+Boolean Method:ES1.
+
+1. tosource()
+2. tostring()
+3. valueof()
+
+String method:
+
+charAt()=> it returns the character of the specified index.
+charcodeat()=> it returns a unicode value of a character at the given index.
+concat()=> join 2 str and ret new str.
+indexof()=> first occurence
+lastindexof()=> last occurence
+length()
+match
+replace
+search
+slice
+split
+substring
+valueof
+trim
+touppercase
+tolowercase
+tolocaleuppercase
+tolocalelowercase
+
+Array method:
+
+sort()=>arrange alphabetically or ascending descnding
+shift()=> removes the first item in an arr
+unshift()=> add new elem in the beginning
+pop()=> remove last element
+push()=> add the last element
+join()
+splice()
+reverse()
+filter()
+reduce()
+map()=> 
+foreach()
+every()
+some()
+
+rotate k items=> 1,2,3,4,5 => 5,1,2,3,4 => 4,5,1,2,3 => 3,4,5,1,2 => 3
+
+Date Methods:
+
+getday
+getfullyear
+gethours
+getminutes
+gettime
+getmillisec
+date()
+settime() =>  ES1
+
+Math methods:
+
+abs()
+ceil()=> it rounded to the uppertop value
+exp()
+pow()
+PI()
+max()
+min()
+round() => round off to the nearest value 
+floor()=> it rounded to the nearest lowest value
+sqrt()
+cbrt()
+random()=> returns some random number from 0 to 1.
+log()
